@@ -1,5 +1,5 @@
 #!/usr/bin/env -S gnuplot -p
-set title "Terrain Distribution (bbbt [100])"
+set title "Terrain Distribution (bbbt [2000])"
 set datafile separator ","
 set key outside right
 set grid
